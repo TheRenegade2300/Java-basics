@@ -1,0 +1,83 @@
+//this is the cheatsheet
+
+// var x = 2;
+
+// var y = 4;
+
+// this is for the alert
+
+// var firstname = "Kai";
+
+// var lastname = "Moore";
+
+// alert(firstname+" "+lastname);
+
+// this is for the console
+
+// var user = {firstname: 'Kai', lastname: 'Moore'}
+
+// console.log(user.firstname);
+
+// var string1 = "Hi"
+
+// var string2 = "Mom"
+
+// alert(string1 + " " + string2);
+
+// this is an object
+
+// var object = {firstname: 'Kai', lastname: 'Moore', birthday: 'May 28, 2001', interest: ['coding', 'videogames', 'hanging out with people']}
+
+// console.log(object)
+
+// console.log(object.firstname, object.lastname, object.birthday, object.interest);
+
+// var x = 2 
+
+// function Print(x){
+// 	alert(x);
+// }
+
+// Print(23);
+
+// function name(name){
+// 	console.log (name);
+// }
+
+// name("Kai");
+
+
+
+// function door(input){
+// return console.log(input);
+// }
+
+// door("door1");
+
+
+//var  input = "number"
+
+
+// function door(number){
+// 	if input === "1"console.log ("prize");
+// }
+
+// door("1");
+
+// console.log("call door1, door2, door3");
+
+// function door1(){
+// 	alert("you won")
+// }
+
+//arrays use [] objects use {}
+
+//console.log(interest[0]) this is used to pull the string numbered 0 from the multidimensional array interest
+
+
+
+
+
+
+
+
